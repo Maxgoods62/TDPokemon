@@ -4,3 +4,13 @@ footer {
     margin-top: 20px;
     padding: 10px 30px;
 }
+
+.navbar .search-container {
+    float: right;
+}
+.navbar input[type=text] {
+    padding: 6px;
+    margin-top: 8px;
+    font-size: 17px;
+    border: none;
+}
